@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 // components
-import ToDoList from "./pages/ToDoList";
+import ToDoList from "./components/ToDoList";
 import { ResetStyles } from "./components/ResetStyles";
 
 const Container = styled.div`
